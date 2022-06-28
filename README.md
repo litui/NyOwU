@@ -66,4 +66,4 @@ Example: ```FC0401060000FF000000FA``` (set colour to green)
 | 5          | Audio Profile (0, 1, 2, 3)     |
 | 6          | Checksum (haven't decoded yet) |
 
-Example: ```fc050202920069``` (original sound mode)
+Example: ```FC050202920069``` (original sound mode)
