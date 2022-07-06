@@ -1,6 +1,6 @@
 # <sub>*nyan*</sub>OwO 😸
 
-Soon, a remote API for controlling the Yowu Selkirk 3G headphones LEDs and sound quality settings (and potentially other things in future?) over Bluetooth Low Energy (BLE).
+Soon, a suite for controlling the Yowu Selkirk 3G headphones LEDs and sound quality settings (and potentially other things in future?) over Bluetooth Low Energy (BLE) using an Adafruit ESP32 "Huzzah32" Feather and a Solder Party Keyboard Featherwing Rev2. This will use the ESP-IDF natively (no Arduino layer).
 
 For now, this repository will document what I've learned about the software and BLE calls.
 
