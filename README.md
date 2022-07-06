@@ -1,4 +1,4 @@
-# NyOwU 😸
+# <sub>*nyan*</sub>OwO 😸
 
 Soon, a remote API for controlling the Yowu Selkirk 3G headphones LEDs and sound quality settings (and potentially other things in future?) over Bluetooth Low Energy (BLE).
 
