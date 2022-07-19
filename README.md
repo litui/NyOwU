@@ -1,6 +1,6 @@
 # <sub>*nyan*</sub>OwO 😸
 
-Demo code and detail for controlling the Yowu Selkirk 3G headphones LEDs and sound quality settings (and potentially other things in future?) over Bluetooth Low Energy (BLE) using an Unexpected Maker FeatherS3 (ESP32-S3). Leverages CircuitPython which is layered atop the Espressif ESP-IDF and Apache NimBLE.
+Demo code and detail for controlling the Yowu Selkirk 3G headphones LEDs and sound quality settings (and potentially other things in future?) over Bluetooth Low Energy (BLE) using an Unexpected Maker FeatherS3 (ESP32-S3). Leverages CircuitPython's _bleio and Adafruit_BLE libraries which are layered atop the Espressif ESP-IDF and Apache NimBLE.
 
 > This project is in no way affiliated with YOWU. I enjoy and support their hardware and wish their developers all the best in business and in life.
 
